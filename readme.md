@@ -6,9 +6,9 @@
 
 ## Preview Details
 
- ![Project Preview](preview/portfolio-gemy.png)
+ ![Project Preview](preview/portfolio-sartaj.png)
 
-### Technologies used
+### Technologies usedgit
 
 - HTML
 - CSS
